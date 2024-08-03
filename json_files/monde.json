@@ -1,0 +1,129 @@
+{
+    "le_bar" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_int_1", "opts":{"hauteur":3.5, "largeur":3.5, "tableau":"./assets/tableau/Le_bar.jpg", "descript":"Le Bar de Maxim's, peint en 1890 par Pierre-Victor Galland, capture l'essence luxueuse et festive du célèbre restaurant parisien durant la Belle Époque."}, "position":{"x":12,"y":3.5,"z":-0.1}}}
+        ]
+    },
+
+    "la_patisserie" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":6, "tableau":"./assets/tableau/La_patisserie_Gloppe_aux_Champs-Elysees.png", "descript":"La Pâtisserie Gloppe aux Champs-Elysées (1889) par Jean Béraud capture l'élégance et la sophistication de la bourgeoisie parisienne à la fin du XIXe siècle."}, "position":{"x":-7,"y":3.5,"z":-0.1}}}
+        ]
+    },
+
+    "delegues_colonies" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_int_1","opts":{"hauteur":5, "largeur":4,"tableau":"./assets/tableau/regamey-ferry-delegues-colonies.jpg", "descript":"Les Délégués des colonies et Jules Ferry de Frédéric Régamey, peint en 1892, montre Jules Ferry entouré de délégués des colonies françaises. Cette œuvre représente le Conseil supérieur des Colonies, qui a joué un rôle crucial dans la mise en place de l'économie coloniale française en rentabilisant les terres conquises par des cultures spéculatives et l'exploitation de minerais destinés à l'industrie​"}, "position":{"x":6,"y":3.5,"z":-0.1}}}
+        ]
+    },
+
+    "bd_montmartre" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_ext_4","opts":{"hauteur":4, "largeur":4.5,"tableau":"./assets/tableau/bd_montmartre_1897.jpg", "descript":"Le tableau Boulevard Montmartre de 1887 par Camille Pissarro, peint depuis son logement au Grand Hôtel de Russie, représente la rue animée avec des passants, des carrosses et le jeu de lumières naturelles et artificielles, illustrant la vitalité et le dynamisme de la vie urbaine"}, "position":{"x":4,"y":3.5,"z":0.1}}}
+        ]
+    },
+
+    "egl_ste_trinite" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_ext_4","opts":{"hauteur":4, "largeur":4.5,"tableau":"./assets/tableau/egl_ste_trinite.jpg", "descript":"Jean Béraud, dans son tableau Après l'office à l'église de la Sainte-Trinité (vers 1900), capture un instant de la vie parisienne, représentant des fidèles sortant de l'église américaine de la Sainte-Trinité à Paris."}, "position":{"x":11,"y":3.5,"z":0.1}}}
+        ]
+    },
+
+    "une_soiree_elegante" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_ext_1","opts":{"hauteur":4, "largeur":4.5,"tableau":"./assets/tableau/une_soirée_élégante.jpg", "descript":"Une soirée élégante, peint par Victor Gabriel Gilbert en 1890, est une peinture qui capture une scène de bal, typique de son style axé sur les scènes parisiennes et les marchés animés."}, "position":{"x":-7,"y":3.5,"z":0.1}}}
+        ]
+    },
+
+    "yatching_dans_l_archipel" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_ext_1","opts":{"hauteur":4, "largeur":4.5,"tableau":"./assets/tableau/yatching_dans_l_archipel.png", "descript":"Yachting in the Archipelago (1898) est une œuvre d'Henri Gervex. Ce tableau illustre une scène de yachting dans les îles grecques, capturant l'élégance et le charme de la navigation à la fin du XIXe siècle."}, "position":{"x":7,"y":3.5,"z":0.1}}}
+        ]
+    },
+
+    "decapite" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_ext_4","opts":{"hauteur":4, "largeur":6, "tableau":"./assets/tableau/magazine_l_illustration.png", "musique":"assets/son/magazine_l_illustration.mp3", "descript":"Image tirée du magazine L’Illustration du 11 avril 1891. vec un essai coup-de-poing intitulé « Cinq têtes coupées », le chroniqueur français Daniel Schneidermann revient sur les horreurs de la colonisation française, trop souvent minimisées dans le récit national."}, "position":{"x":-8,"y":2.5,"z":0.1}}}
+        ]
+    },
+
+    "decapite_indochine" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":6, "tableau":"./assets/tableau/ChasseAuxPirates.jpg", "descript":"Cette photo, prise en 1908, illustre une scène macabre de la répression coloniale française au Vietnam. Il montre les têtes décapitées des résistants vietnamiens, appelés pirates par les colonisateurs, affichées pour servir d'avertissement et de démonstration de puissance."}, "position":{"x":-10,"y":2.5,"z":0.1}}}
+        ]
+    },
+
+    "pillage_colonial" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_ext_3","opts":{"hauteur":4, "largeur":6, "tableau":"./assets/tableau/pillage_colonial.jpg", "descript":"Avec Le grand pillage, Yannick Le Marec poursuit son grand œuvre de compréhension du colonialisme comme phénomène d’ignorance et de bêtise criminelle."}, "position":{"x":-10,"y":2.5,"z":-0.1}}}
+        ]
+    },
+
+    "dessin_dreyfus" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_ext_3","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/Dreyfus.jpg", "musique":"assets/son/Dreyfus.mp3", "descript":"DREYFUS, REINACH & CIE est une chanson sur feuille volante, avec dessin satirique au verso, ecrite à la fin du 19ème au local de la Jeunesse Antisémite"}, "position":{"x":12,"y":2.5,"z":-0.1}}}
+        ]
+    },
+
+    "paroles_dreyfus" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":false, "parent":"cloison_ext_3","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/Dreyfus_paroles.jpg", "descript":"DREYFUS, REINACH & CIE est une chanson sur feuille volante, avec dessin satirique au verso, ecrite à la fin du 19ème au local de la Jeunesse Antisémite"}, "position":{"x":8,"y":2.5,"z":-0.1}}}
+        ]
+    },
+
+    "la_question_juive" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/la_question_juive.jpg", "descript":"Jacques de Biez était un journaliste, historien et critique d’art français, connu pour son antisémitisme radical. Il a écrit “La Question juive : la France ne peut pas être leur terre promise” en 1886, un livre qui a contribué à populariser les théories antisémites de l’époque."}, "position":{"x":8,"y":2.5,"z":0.1}}}
+        ]
+    },
+
+    "Le_juif_voila_l_ennemi" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/Le_juif_voila_l_ennemi.jpeg", "descript":"Le Juif voilà l’ennemi est un livre écrit par Docteur Martinez et publié en 1890 par Albert Savine. Ce livre est considéré comme un ouvrage antisémite."}, "position":{"x":12,"y":2.5,"z":0.1}}}
+        ]
+    },
+
+    "petrole_a_bakou" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/Petrole_a_Bakou.png", "descript":"Exploitation pétrolière à Bakou en Azerbaïdjan."}, "position":{"x":5,"y":7.5,"z":0.1}}}
+        ]
+    },
+
+    "salt_creek_petrole" : {
+        "type" : "poster",
+        "data" : {},
+        "composants" : [
+            {"type":"poster", "data":{"rotation":true, "parent":"cloison_int_1","opts":{"hauteur":4, "largeur":3, "tableau":"./assets/tableau/Salt_Creek_Petrole.jpg", "descript":"Tête de puits du champ pétrolifère de Salt Creek (Wyoming) en 1908."}, "position":{"x":-5,"y":7.5,"z":0.1}}}
+        ]
+    }
+}
